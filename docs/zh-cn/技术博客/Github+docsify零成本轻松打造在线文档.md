@@ -10,9 +10,9 @@ vue的官方文档也是使用docsify搭建的：https://cn.vuejs.org
 
 效果如下：
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807205951338.png" alt="image-20200807205951338" style="zoom:50%;" />
+<img src="static/image-20200807205951338.png" alt="image-20200807205951338" style="zoom:50%;" />
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807210030081.png" alt="image-20200807210030081" style="zoom:50%;" />
+<img src="static/image-20200807210030081.png" alt="image-20200807210030081" style="zoom:50%;" />
 
 # 二、安装docsify
 
@@ -30,7 +30,7 @@ npm i docsify-cli -g
 
 注：mac中需要使用root权限，需要加上sudo。
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807202819174.png" alt="image-20200807202819174" style="zoom:50%;" />
+<img src="static/image-20200807202819174.png" alt="image-20200807202819174" style="zoom:50%;" />
 
 # 三、使用docsify创建文档网站
 
@@ -50,7 +50,7 @@ npm i docsify-cli -g
 docsify init ./docs
 ```
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807203049204.png" alt="image-20200807203049204" style="zoom:50%;" />
+<img src="static/image-20200807203049204.png" alt="image-20200807203049204" style="zoom:50%;" />
 
 会自动生成一下几个文件：
 
@@ -66,11 +66,11 @@ README.md 会做为主页内容渲染
 docsify serve docs
 ```
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807203313027.png" alt="image-20200807203313027" style="zoom:50%;" />
+<img src="static/image-20200807203313027.png" alt="image-20200807203313027" style="zoom:50%;" />
 
 本地访问http://localhost:3000即可看到文档：
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807204759896.png" alt="image-20200807204759896" style="zoom:50%;" />
+<img src="static/image-20200807204759896.png" alt="image-20200807204759896" style="zoom:50%;" />
 
 # 四、通过github发布文档
 
@@ -86,13 +86,13 @@ git push
 
 在Settings中的GitHub Pages中选择docs文件夹，点击保存，即可发布刚刚的文档网站。通过https://shelimingming.github.io/MJ_mall_doc/地址即可访问！
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807205030212.png" alt="image-20200807205030212" style="zoom:50%;" />
+<img src="static/image-20200807205030212.png" alt="image-20200807205030212" style="zoom:50%;" />
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807205117023.png" alt="image-20200807205117023" style="zoom:50%;" />
+<img src="static/image-20200807205117023.png" alt="image-20200807205117023" style="zoom:50%;" />
 
 至此，我们就零成本在公网上搭建了一个自己的文档网站了！！
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200807205351274.png" alt="image-20200807205351274" style="zoom:50%;" />
+<img src="static/image-20200807205351274.png" alt="image-20200807205351274" style="zoom:50%;" />
 
 # 五、docsify详细使用
 
@@ -130,7 +130,7 @@ docsify可以很容易的给文档网站加上一个好看的封面。
 
 这样就可以创建出一个颜色随机的好看的封面了！
 
-<img src="./Github+docsify零成本轻松打造在线文档/image-20200808074143823.png" alt="image-20200808074143823" style="zoom:50%;" />
+<img src="static/image-20200808074143823.png" alt="image-20200808074143823" style="zoom:50%;" />
 
 ## 2、多页文档
 
