@@ -5,6 +5,8 @@
 * 前端、后端、大模型等欢迎大家订阅
 ## 本项目由 [GitHub](https://github.com/shelimingming/MJ_mall_doc.git) 基础构建
 
-~~~~> 开发私房菜 ~~~~
+~~~
+开发私房菜
 [GitHub](https://github.com/yxhpy/knowledgebase.git)
 [Get Started](#quick-start)
+~~~
