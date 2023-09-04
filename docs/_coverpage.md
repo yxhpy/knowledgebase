@@ -1,12 +1,10 @@
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# MJ_Mall
+# YXHPY私人知识库
+## 更新内容包含如下：
+* 前端、后端、大模型等欢迎大家订阅
+## 本项目由 [GitHub](https://github.com/shelimingming/MJ_mall_doc.git) 基础构建
 
-> 使用当前最主流Java技术栈，前后端分离的商城系统
-
-* 前端框架：vue-cli、vue-router、vuex、axios
-* 后端框架：Springboot、springcloud alibaba、mybaits
-* 中间件：Mysql、RabbitMQ、Redis、Mongodb、Elasticsearch
-
-[GitHub](https://github.com/shelimingming/MJ_Mall.git)
+~~~~> 开发私房菜~~~~
+[GitHub](https://github.com/yxhpy/knowledgebase.git)
 [Get Started](#quick-start)
