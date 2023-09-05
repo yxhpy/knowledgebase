@@ -9,7 +9,8 @@
     * `embedding`
     * `llm`
 * 面向对象 `封装`、`继承`、`多态`
-* 安装`LangChain`使用`OpenAi`去实现一个知识库 **后续我会出教程**
+* [安装`LangChain`使用`ZhipuAi`去实现一个知识库](zh-cn/大模型/LangChain/利用ZhipuAi完成知识库建立.md) 
+* [对比一下官网如何建立知识库](https://python.langchain.com/docs/use_cases/question_answering/) 
 
 ## 为什么要自己去实现一些类、方法，`LangChain`现有不能满足我们？
 1. `LangChain`对于`OpenAi`支持是最好的，对其它大模型支持非常有限，尤其是国产。
