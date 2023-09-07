@@ -7,4 +7,4 @@
 
 
 [GitHub](https://github.com/yxhpy/knowledgebase.git)
-[Get Started](#quick-start)
+[Get Started](#/zh-cn/项目介绍.md)
