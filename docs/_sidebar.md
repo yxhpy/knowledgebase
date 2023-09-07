@@ -21,8 +21,22 @@
   <summary>大模型</summary>
   <div class="fold">
       <a href="#/zh-cn/大模型/排行榜.md"  target="_self" >大模型排行</a><br>
-      <a href="#/zh-cn/大模型/LangChain/利用ZhipuAi完成知识库建立.md"  target="_self">利用ZhipuAi完成知识库建立</a><br>
-      <a href="#/zh-cn/大模型/LangChain/构造自己的LLM供给LangChain使用.md"  target="_self">构造自己的LLM供给LangChain使用</a><br>
+      <details> 
+        <summary>对话例子</summary>
+          <details> 
+            <summary>智谱AI</summary>
+            <div class="fold">
+                <a href="#/zh-cn/大模型/对话例子/智谱AI/制定three.js一周学习计划.md" target="_self" title="制定three.js一周学习计划">制定three.js一周学习计划</a>
+            </div>
+          </details>
+      </details>
+      <details> 
+        <summary>LangChain</summary>
+        <div class="fold">
+          <a href="#/zh-cn/大模型/LangChain/利用ZhipuAi完成知识库建立.md"  target="_self">利用ZhipuAi完成知识库建立</a><br>
+          <a href="#/zh-cn/大模型/LangChain/构造自己的LLM供给LangChain使用.md"  target="_self">构造自己的LLM供给LangChain使用</a><br>
+        </div>
+      </details>      
       <details> 
         <summary>高级Prompt大全</summary>
         <div class="fold">
