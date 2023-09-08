@@ -20,6 +20,7 @@
 <details> 
   <summary>大模型</summary>
   <div class="fold">
+      <a href="#/zh-cn/大模型/LangChain/官方文档学习/制定学习计划.md"  target="_self" >LangChain学习计划</a><br>
       <a href="#/zh-cn/大模型/排行榜.md"  target="_self" >大模型排行</a><br>
       <details> 
         <summary>LangChain</summary>
